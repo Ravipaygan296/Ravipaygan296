@@ -90,6 +90,12 @@ Taking AI systems from notebook to product — FastAPI backends, Streamlit/React
 ---
 
 ## Featured Projects
+🏎️ Telemetry Room — F1 Analytics & Race Engineering System
+Python · FastAPI · Text-to-SQL · Groq LLaMA 3.3 70B · Gradient Boosting
+Built a full-stack AI system covering historical analytics (2018–2026), live race tracking, a text-to-SQL AI analyst, and podium prediction
+Trained a Gradient Boosting model achieving 93% accuracy with time-based splits and calibrated probabilities, beating the grid-position baseline
+Built an AI analyst layer using Groq LLaMA 3.3 70B, grounded in real SQL results with entity resolution to prevent hallucinated statistics
+Deployed end-to-end on Vercel — live demo
 
 ### 🧠 DocuMind AI — RAG-based Document Intelligence System
 `Python` `FAISS` `SentenceTransformers` `Groq LLaMA 3.3 70B` `Streamlit`
@@ -141,10 +147,10 @@ Taking AI systems from notebook to product — FastAPI backends, Streamlit/React
 
 ## Work Experience
 
-**Data Analyst Intern — Trainity** *(Jul 2024 – Mar 2025)*
-- Automated manual reporting by building Power BI dashboards, reducing reporting time by **40%**
-- Designed SQL queries for cleaning and preprocessing, achieving **99% data accuracy**
-- Analyzed 1M+ customer transactions, boosting sales forecasting accuracy by **15%**
+**Machine Learning Intern — Springer Capital (Mar 2026 – Present, Remote)
+Built and evaluated 3 ML models on real-world financial datasets using Python and scikit-learn, improving prediction accuracy by 15%
+Applied LLM-based workflows to automate financial reporting tasks, reducing manual processing time by 40%
+Worked with predictive modeling and statistical techniques on investment analytics
 
 **Data Analyst Trainee — TechWave Solutions** *(Jan 2024 – Jun 2024, Hyderabad)*
 - Completed a 6-month intensive Data Analytics Bootcamp, earning a Professional Certificate in Data Analytics
